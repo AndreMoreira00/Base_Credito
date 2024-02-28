@@ -14,7 +14,7 @@ A IA_Base_Credit é uma inteligência artificial capaz de analisar dados bancár
 - Sklearning.model_selection
 - Pickle
 
-### O modelo de aprendizagem utilizado é Bayseano, Arvore de decisões e Random Forest
+### O modelo de aprendizagem utilizado é Bayseano, Arvore de decisões, Random Forest, KNN(K-Nearest Neighbors) e Regressão Logistica.
 
 # Tratamento de dados:
 ### Age:
