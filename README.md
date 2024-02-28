@@ -16,6 +16,22 @@ A IA_Base_Credit é uma inteligência artificial capaz de analisar dados bancár
 
 ### Os modelos de aprendizagem utilizados são os Bayseano, Arvore de decisões, Random Forest, KNN(K-Nearest Neighbors), Regressão Logistica e Orange(Oner, regras).
 
+# Score
+### Naive Bayseano:
+- 93.80%
+### Arvore de Decisão
+- 98.20%
+### Random Forest
+- 98.40%
+### KNN(K-Nearest Neighbors)
+- 98.60%
+### Regressão Logistica
+- 94.60%
+### Orange(Oner/regras)
+- 97.60%
+### Majority Learning
+- 85.85%
+
 # Tratamento de dados:
 ### Age:
 ![Captura de tela 2024-01-15 192152](https://github.com/AndreMoreira00/Base_Credito/assets/59531553/6772022f-8f6e-45a3-8eb2-098b87d4b2ad)
