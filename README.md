@@ -32,7 +32,7 @@ A IA_Base_Credit é uma inteligência artificial capaz de analisar dados bancár
 ### Majority Learning
 - 85.85%
 ### SVM
-- *98.80
+- 98.80
 
 # Tratamento de dados:
 ### Age:
