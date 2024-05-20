@@ -18,20 +18,22 @@ A IA_Base_Credit é uma inteligência artificial capaz de analisar dados bancár
 ### Naive Bayseano:
 - 93.80%
 ### Arvore de Decisão
-- 98.20%
+- 98.20% ---> 98.30%
 ### Random Forest
-- 98.40%
+- 98.40% ---> 98.70%
 ### KNN(K-Nearest Neighbors)
 - 98.60%
 ### Regressão Logistica
-- 94.60%
+- 94.60% ---> 94.84%
 ### Orange(Oner/regras)
 - 97.60%
 ### Majority Learning
 - 85.85%
 ### SVM
-- 98.80%
-
+- 98.80% ---> 98.29%
+### Rede Neural
+- 99.80%
+  
 # Tratamento de dados:
 ### Age:
 ![Captura de tela 2024-01-15 192152](https://github.com/AndreMoreira00/Base_Credito/assets/59531553/6772022f-8f6e-45a3-8eb2-098b87d4b2ad)
